@@ -13,7 +13,7 @@
 
 ### ▶️ [Deskreen Youtube channel](https://www.youtube.com/channel/UCyiTK98gjDKGNNjUk9ynzxQ) (video tutorials, demos, use cases for Deskreen day to day usage)
 
-## Deskreen turns any device with a web browser into a secondary screen for your computer
+## Deskreen可以将任何具有Web浏览器的设备转换为计算机的辅助屏幕
 
 Deskreen is an `electron.js` based application that uses `WebRTC` to make a live stream of your
 desktop to a web browser on any device.
